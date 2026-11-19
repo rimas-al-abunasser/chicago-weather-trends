@@ -1,0 +1,20 @@
+{
+  "rows_raw": 3653,
+  "duplicate_dates": 0,
+  "missing_dates": 0,
+  "missing_values": {},
+  "out_of_bounds": {},
+  "tmin_gt_tmax": 0,
+  "tmean_outside_min_max": 0,
+  "rain_gt_precip": 0,
+  "gust_lt_wind": 0,
+  "values_imputed": 0,
+  "values_still_missing": 0,
+  "rows_clean": 3653,
+  "date_range": [
+    "2015-01-01",
+    "2024-12-31"
+  ],
+  "heavy_precip_threshold_mm": 25.3,
+  "temp_outlier_days": 37
+}
